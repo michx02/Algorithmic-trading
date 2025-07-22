@@ -1,4 +1,4 @@
-# Algorithmic Trading
+# Algorithmic Trading by Mean Reversion Strategy
 
 A collection of algorithmic trading strategies implemented in Python. 
 This project is designed for anyone interested in building, testing, and optimizing algorithmic trading strategies using historical market data.
